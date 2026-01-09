@@ -1,0 +1,20 @@
+p{
+    color:darkblue; 
+    text-align:center; 
+    font-family: didot; 
+    font-size: 150%;
+}
+.color{
+    color: goldenrod;
+}
+.font{
+    font-size: 130%;
+    font-family: didot;
+    text-align: center;
+
+}
+#title{
+    color: darkblue; 
+    text-align:center; 
+    font-family: didot;
+}
